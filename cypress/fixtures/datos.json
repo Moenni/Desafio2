@@ -1,0 +1,9 @@
+{
+    "tareas":{
+        "tarea1": "Comprar Pan",
+        "tarea2": "Tirar la basura",
+        "tarea3": "Sacar a pasear al perro",
+        "tarea4":"Cocinar",
+        "tarea5": "Lavar la ropa"
+    }
+}
